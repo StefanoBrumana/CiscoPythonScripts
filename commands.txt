@@ -1,0 +1,13 @@
+terminal page-break disable
+terminal width 80
+show clock
+show version
+show run
+show vlan
+show transceiver ddm brief
+show lldp remote 
+show spanning-tree
+show mac-address all
+show arp
+terminal page-break enable
+############# end of python script #############
