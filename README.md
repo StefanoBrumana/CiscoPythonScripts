@@ -1,6 +1,13 @@
 # CiscoPythonScripts
 Python scripts for Cisco IOS devices
 
+Summary:
+
+## Purpose of scripts
+### Usage of logs produced by the script
+#### How to run the script ( in Windows command prompt )
+#### Example of log obtained after launching the script 
+
 ## Purpose of scripts
 
 CiscoMultiTelnet.py: interactive script to telnet multiple Cisco devices ( listed in ip.txt file that must be manually created in the same folder of this script ) all with same username, password and (optional) enable password, enter commands ( listed in the commands.txt file saved in the same folder of this script ) and save the entire log into a .txt file whose name is made by IP address of target device + date/time
