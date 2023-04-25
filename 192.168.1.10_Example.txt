@@ -1,0 +1,31 @@
+C:\Temp\PythonScripts>python CiscoMultiTelnet.py
+##############################
+Python telnet script for Cisco
+##############################
+Has target device an username required for telnet access (Y/N)?y
+Enter Username: ***********
+Password: **********
+Has target device an enable password (Y/N)?y
+Enter enable password: ************
+Working on device 192.168.1.10
+Executing and logging these commands:
+terminal length 0
+
+terminal width 80
+
+show clock
+
+show version
+
+show run
+
+############# end of python script #############
+End of operations on device 192.168.1.10
+All logged into file 192.168.1.10_04252023-111844.txt
+Wait conclusion of the entire process before opening any log file
+##############################################
+##############################################
+##############################################
+All operations logged into your present folder
+
+C:\Temp\PythonScripts>
