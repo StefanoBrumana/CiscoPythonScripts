@@ -1,0 +1,11 @@
+#python script version 0.3 January 2021 
+#tested in python 3.8.5 on windows 7 pro 64 bit + pip version 20.1.1
+#ssh libraries: paramiko version 2.7.2, netmiko version 3.3.2
+#import required python libraries to execute this script
+import getpass
+import sys
+import telnetlib
+import time
+import socket
+import os
+from datetime import datetime
