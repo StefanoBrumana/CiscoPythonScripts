@@ -58,7 +58,7 @@ Wait conclusion of the entire process before opening any log file
 ##############################################
 All operations logged into your present folder
 
-C:\Temp\PythonScripts>
+C:\Temp\PythonScripts> 
 
 #### Example of log obtained after launching the script 
 
