@@ -1,7 +1,7 @@
 # CiscoPythonScripts
 Python scripts for Cisco IOS devices
 
-All scripts contains commments to maximize their understanding and customization
+All scripts contains commments to maximize understanding and customization
 
 Summary:
 
