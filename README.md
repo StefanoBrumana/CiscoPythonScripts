@@ -36,6 +36,9 @@ Launch the script ( python was added to the system path of Windows to run it fro
 
 Example: C:\Temp> python CiscoMultiTelnet.py
 
+If upon launching the script you get the error "ModuleNotFoundError: No module named 'paramiko'", you must install this library with the command "pip install paramiko"
+Next re-launch the script as explained in the above example
+
 The file "192.168.1.10_Example.txt" in this repository shows an example of what you will see on screen when the script is launched
 
 Some of the details like usernanme/password/IP addresses were edited for privacy: the main purpose here is to explain how to run the script
