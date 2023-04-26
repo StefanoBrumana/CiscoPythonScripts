@@ -4,11 +4,10 @@ Python scripts for Cisco IOS devices
 All scripts contain commments to maximize understanding and customization
 
 Summary:
-
-## Purpose of scripts
-### Usage of logs produced by the script
-#### How to run the script ( in Windows command prompt )
-#### Example of log obtained after launching the script 
+- Purpose of scripts
+- Usage of logs produced by the script
+- How to run the script ( in Windows command prompt )
+- Example of log obtained after launching the script 
 
 ## Purpose of scripts
 
