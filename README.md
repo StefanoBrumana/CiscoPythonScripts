@@ -30,9 +30,9 @@ It is a free app to consult log files: it also has a compare plug-in to quickly 
 
 #### How to run the script ( in Windows command prompt )
 
-Open a DOS prompt and change to folder containing the .py script + ip.txt and commands.txt files.
+Open a DOS prompt and go to folder containing the .py script + ip.txt and commands.txt files that you have downloaded from here
 
-Launch the script ( python was added to the system path of Windows to run it from any folder of this pc ) and answer to the questions appearing on screen
+Launch the script ( assuming that python was added to the system path of Windows during its installation on your PC to run it from any folder ) and answer to the questions appearing on screen
 
 Example: C:\Temp> python CiscoMultiTelnet.py
 
