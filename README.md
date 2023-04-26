@@ -34,6 +34,8 @@ Open a DOS prompt and change to folder containing the .py script + ip.txt and co
 
 Launch the script ( python was added to the system path of Windows to run it from any folder of this pc ) and answer to the questions appearing on screen
 
+Example: C:\Temp> python CiscoMultiTelnet.py
+
 The file "192.168.1.10_Example.txt" in this repository shows an example of what you will see on screen when the script is launched
 
 Some of the details like usernanme/password/IP addresses were edited for privacy: the main purpose here is to explain how to run the script
